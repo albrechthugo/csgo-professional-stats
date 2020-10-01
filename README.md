@@ -13,8 +13,8 @@
 - [x] Obter dados da <a href="https://hltv-api.vercel.app/">API</a>
 - [x] Selecionar dados para Próximas partidas, Resultados e Notícias
 - [x] Dispor elementos na tela
-- [] Responsividade
-- [] Aprimorar UI (paleta de cores, efeitos de hover, focus)
+- [ ] Responsividade
+- [ ] Aprimorar UI (paleta de cores, efeitos de hover, focus)
 
 <br>
 
