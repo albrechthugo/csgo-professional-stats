@@ -18,5 +18,13 @@
 
 <br>
 
+## Problemas a serem resolvidos
+
+<br>
+
+Há partidas que não possuem imagem nem o nome dos times, isso acontece pois são casos em que a partida irá acontecer com times que dependem de outros resultados, partidas que não aconteceram ainda.
+
+<br>
+
 <img src="./frontend/src/assets/image.png">
 
